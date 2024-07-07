@@ -1,3 +1,14 @@
+# Intellij
+
+.idea/
+
+# Encore
+encore.gen.go
+encore.gen.cue
+/.encore
+node_modules
+/encore.gen
+
 # Logs
 logs
 *.log
